@@ -20,6 +20,8 @@
 - **Удаление** - удаление по номеру или по площади
 
 ## Структура проекта
+<img width="500" height="400" alt="menucommands_8h__incl" src="https://github.com/user-attachments/assets/11723f94-2fd1-4858-b7a7-3de56b5998b7" />
+
 ```
 OOP_lab1/
 ├── core/ # Основные классы фигур
